@@ -4,15 +4,10 @@
 #include <QWidget>
 #include <QFile>
 
-#include <phonon>
-
 namespace Ui {
 class Accordeur;
 }
 
-namespace QAudio{
-class QAudio;
-}
 
 class Accordeur : public QWidget
 {

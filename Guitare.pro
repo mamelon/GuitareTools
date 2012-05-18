@@ -4,7 +4,8 @@
 #
 #-------------------------------------------------
 
-QT       += core gui phonon multimedia
+QT       += core gui
+QT       += multimedia
 
 TARGET = Guitare
 TEMPLATE = app
@@ -25,7 +26,6 @@ FORMS    += mainwindow.ui
 RESOURCES += \
     ressources.qrc
 
-MOBILITY += multimedia
 
 LIBS += -lsndfile -lopenal
 
