@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file>images/quit.png</file>
+        <file>images/about.png</file>
+        <file>images/tools.png</file>
+        <file>images/home.png</file>
+        <file>images/metronome.png</file>
+        <file>images/guitar.png</file>
+        <file>images/greenLedOn.png</file>
+        <file>images/greenLedOff.png</file>
+        <file>images/play.png</file>
+        <file>images/stop.png</file>
+    </qresource>
+    <qresource prefix="/sons">
+        <file>sons/kick.wav</file>
+    </qresource>
+</RCC>
